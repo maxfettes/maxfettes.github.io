@@ -1,1 +1,3 @@
-Hello World
+var hello = "hello";
+
+alert(hello);
