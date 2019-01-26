@@ -71,7 +71,7 @@ header a:hover{
   min-height:400px;
   background:url('../img/showcase.jpg') no-repeat 0 -400px;
   text-align:center;
-  color:#000000;
+  color:#ffffff;
 }
 
 #showcase h1{
@@ -99,13 +99,40 @@ header a:hover{
 }
 
 #boxes .box img{
-  width:100px;
+  width:90px;
+}
+
+/* Sidebar */
+aside#sidebar{
+  float:right;
+  width:30%;
+  margin-top:10px;
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  width:90%;
+  padding:5px;
+}
+
+/* Main-col */
+article#main-col{
+  float:left;
+  width:65%;
+}
+
+/* Services */
+ul#services li{
+  list-style: none;
+  padding:20px;
+  border: #cccccc solid 1px;
+  background:#e6e6e6;
 }
 
 footer{
+  padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#cccccc;
+  background-color:#eeeeee;
   text-align: center;
 }
 
