@@ -97,10 +97,19 @@ header a:hover{
   width:30%;
   padding:10px;
 }
-
+  
 #boxes .box img{
   width:90px;
 }
+  box:hover {
+    animation-name: width;
+    animation-duration: 500ms;
+  }
+    @keyframes width {
+    100% {
+      width: 100px;
+    }
+  }
 
 /* Sidebar */
 aside#sidebar{
