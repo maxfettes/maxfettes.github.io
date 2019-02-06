@@ -79,6 +79,10 @@ header a:hover{
   font-size:55px;
   margin-bottom:10px;
 }
+#showcase h2{
+  font-size:40px;
+  color:#333333;
+}
 
 #showcase p{
   font-size:20px;
