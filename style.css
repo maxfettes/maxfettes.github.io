@@ -85,7 +85,8 @@ header a:hover{
   color:#333333;
 }
 
-#showcase p{
+#showcase li{
+  
   font-size:20px;
   color:#000000;
 }
