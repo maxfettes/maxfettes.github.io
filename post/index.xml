@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Max Fettes 2021</copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 18:49:22 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 23:00:26 +0100</lastBuildDate>
     
 	<atom:link href="https://maxfettes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello Friends</title>
+      <link>https://maxfettes.github.io/post/hello2/</link>
+      <pubDate>Mon, 18 Jan 2021 23:00:26 +0100</pubDate>
+      
+      <guid>https://maxfettes.github.io/post/hello2/</guid>
+      <description>This is my first second guest post on my brothers site!
+ I know lots of quotes!
+ </description>
+    </item>
     
     <item>
       <title>Hello Friend</title>
