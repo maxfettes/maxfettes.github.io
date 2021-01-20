@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mfbloge</title>
-    <link>https://maxfettes.github.io/</link>
+    <link>https://www.maxfettes.com/</link>
     <description>Recent content on mfbloge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Max Fettes 2021</copyright>
     <lastBuildDate>Mon, 18 Jan 2021 18:48:30 +0100</lastBuildDate>
     
-	<atom:link href="https://maxfettes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.maxfettes.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Friend</title>
-      <link>https://maxfettes.github.io/post/hello/</link>
+      <link>https://www.maxfettes.com/post/hello/</link>
       <pubDate>Mon, 18 Jan 2021 18:49:22 +0100</pubDate>
       
-      <guid>https://maxfettes.github.io/post/hello/</guid>
+      <guid>https://www.maxfettes.com/post/hello/</guid>
       <description>This is my first guest post on my brothers site!
  I know lots of quotes!
  </description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>About</title>
-      <link>https://maxfettes.github.io/about/</link>
+      <link>https://www.maxfettes.com/about/</link>
       <pubDate>Mon, 18 Jan 2021 18:48:30 +0100</pubDate>
       
-      <guid>https://maxfettes.github.io/about/</guid>
+      <guid>https://www.maxfettes.com/about/</guid>
       <description>Hi there after only two or three minutes, and as many years, mfbu navigates nvim in ranger; a wonder to the middling technician, set up by his technichian brother; and gets self access to the backend of his very own posting house. welcome seldom wanderer, this is a safe place. projects of the poetic include: dramatic samizdat sources into emergence and singularity, spontaneous economic theory of planet x, automatic film review (including speculation and gossip), anecdata, dotings, self quotes and a healthy dose of robot overlords.</description>
     </item>
     
